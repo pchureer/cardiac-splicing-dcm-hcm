@@ -1,0 +1,7 @@
+Cohort	BioProject	Tissue	Cases (n)	Controls (n)	Pre-exclusion	Layout, read length (f)	Library prep	GENCODE	Role in this study
+MAGNet (e)	PRJNA595151	LV, explant / donor	166 DCM, 28 HCM	166 NF	—	paired, 125 bp	poly-A	v49	Discovery. Only cohort with LVEF, RIN, age, sex and pool
+Colorado (c)	PRJNA477855	LV, end-stage explant	36 DCM, 13 ICM (a)	13 NF	37 DCM, 13 ICM / 14 NF	single, 51 bp	intermediate	v49	Independent DCM replication; second etiology pair. MXE excluded
+LBNL (b)	PRJNA522417	LV, end-stage explant	5 DCM (a)	4 NF	15 DCM / 18 NF	single, 50–51 bp	total-RNA	v49	Library-prep robustness check — NOT an independent cohort
+Brigham	PRJNA675090	Anterior septum, myectomy	18 HCM	5	—	paired, 101 bp	—	v49	Independent HCM
+Fuwai (d)	PRJNA522931	Myocardium, myectomy	28 HCM	9 donor	—	paired, 150 bp	—	v46	Independent HCM, best powered
+Stanford (c)	PRJNA747806	Septum, myectomy	13 HCM (a)	6 donor	13 HCM / 7 donor	paired, 150 bp	—	v49	Independent HCM

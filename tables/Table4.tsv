@@ -1,0 +1,6 @@
+Cohort	Accession	Contrast	n (disease/control)	SE events measurable	Same direction	Concordance (%)	95% CI (%)	P (one-sided)	Transfer slope	Pearson r
+Brigham	PRJNA675090	HCM vs ctrl	18/5	442	359	81.2	77.3–84.6	2.9e−42	0.476	0.56
+Colorado	PRJNA477855	DCM vs NF	36/13	471	375	79.6	75.7–83.0	2.7e−40	0.521	0.59
+Stanford	PRJNA747806	HCM vs ctrl	13/6	536	408	76.1	72.3–79.5	2.4e−35	0.386	0.50
+Fuwai	PRJNA522931	HCM vs ctrl	28/9	714	494	69.2	65.7–72.5	2.2e−25	0.243	0.36
+Pooled	—	—	—	2,163	1,636	75.6	73.8–77.4	8.4e−132	mean 0.406	—

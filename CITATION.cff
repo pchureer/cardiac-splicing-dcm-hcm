@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or the deposited result tables, please cite both the software record and the paper."
+title: "Analysis code and event-level results for a four-cohort reanalysis of alternative splicing in dilated and hypertrophic cardiomyopathy"
+abstract: "Complete analysis code and event-level rMATS result tables underlying the manuscript. Includes the analysis conventions required to reproduce every reported count."
+type: software
+authors:
+  - family-names: Phokaew
+    given-names: Chureerat
+    email: chureerat.phokaew@gmail.com
+license: MIT
+doi: 10.5281/zenodo.23681815
+repository-code: "https://github.com/pchureer/cardiac-splicing-dcm-hcm"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23681815
+    description: "Zenodo archive of this repository and the event-level tables"
+keywords:
+  - alternative splicing
+  - RNA-seq
+  - dilated cardiomyopathy
+  - hypertrophic cardiomyopathy
+  - rMATS
+  - RBM20

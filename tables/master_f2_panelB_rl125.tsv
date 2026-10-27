@@ -1,0 +1,6 @@
+cohort	contrast	event_type	convention	reliability	tested	significant	tested_exon	sig_exon	file
+MAGNet	DCM vs NF	SE	exon	reference	53456	813	53456	813	SE_rl125.all_events.tsv
+MAGNet	DCM vs NF	MXE	exon	reference	62537	229	62537	229	MXE_rl125.all_events.tsv
+MAGNet	DCM vs NF	A3SS	exon	reference	14346	87	14346	87	A3SS_rl125.all_events.tsv
+MAGNet	DCM vs NF	A5SS	exon	reference	8360	74	8360	74	A5SS_rl125.all_events.tsv
+MAGNet	DCM vs NF	RI	exon	reference	6243	91	6243	91	RI_rl125.all_events.tsv

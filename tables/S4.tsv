@@ -1,0 +1,8 @@
+part	arm	what	comparison	n_events	slope	ci_lo	ci_hi	same_direction	lambda_convention	lambda_value	recorded	source
+matched-pair panel	A	platform only, same hearts	MAGNet_matched -> LBNL_matched	203.0	0.584	0.4785	0.691	162/203	mean of squared SEs [inverted]	0.9138	0.584	mp_SE_* tables, recomputed
+matched-pair panel	B	people only, same platform	MAGNet_matched -> MAGNet_other	203.0	0.9879	0.8852	1.0897	174/203	mean of squared SEs [inverted]	1.2932	0.988	mp_SE_* tables, recomputed
+matched-pair panel	A x B	product	platform x sampling	203.0	0.5769				mean of squared SEs [inverted]		0.577	derived
+transfer slope, MAGNet-significant SE events	Colorado	cross-cohort, Figure 4	MAGNet -> Colorado		0.521						0.521	45_cohort_slopes.py (NOT recomputed here)
+transfer slope, MAGNet-significant SE events	Brigham	cross-cohort, Figure 4	MAGNet -> Brigham		0.476						0.476	45_cohort_slopes.py (NOT recomputed here)
+transfer slope, MAGNet-significant SE events	Stanford	cross-cohort, Figure 4	MAGNet -> Stanford		0.386						0.386	45_cohort_slopes.py (NOT recomputed here)
+transfer slope, MAGNet-significant SE events	Fuwai	cross-cohort, Figure 4	MAGNet -> Fuwai		0.243						0.243	45_cohort_slopes.py (NOT recomputed here)

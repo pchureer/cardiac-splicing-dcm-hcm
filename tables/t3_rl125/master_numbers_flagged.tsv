@@ -1,0 +1,46 @@
+cohort	contrast	event_type	convention	reliability	tested	significant	genes_sig	median_samples_g1	median_samples_g2	rev_n	rev_deming	tested_full	tested_exon	sig_full	sig_exon	collapse_pct	flag_reason	file
+MAGNet	DCM vs NF	SE	exon	reference	53456	813	568	115	125			80973	53456	944	813	33.98		SE_rl125.all_events.tsv
+MAGNet	DCM vs NF	MXE	exon	reference	62537	229	143	147	147			78794	62537	285	229	20.63		MXE_rl125.all_events.tsv
+MAGNet	DCM vs NF	A3SS	exon	reference	14346	87	74	125	131			15877	14346	88	87	9.64		A3SS_rl125.all_events.tsv
+MAGNet	DCM vs NF	A5SS	exon	reference	8360	74	63	121	129			9455	8360	74	74	11.58		A5SS_rl125.all_events.tsv
+MAGNet	DCM vs NF	RI	exon	reference	6243	91	86	141	143			8768	6243	94	91	28.8		RI_rl125.all_events.tsv
+MAGNet	HCM vs NF	SE	exon	reference	39607	431	313	22	138			54892	39607	464	431	27.85		SE_HCMvsNF_rl125.all_events.tsv
+MAGNet	HCM vs NF	MXE	exon	reference	46956	128	84	24	150			57693	46956	165	128	18.61		MXE_HCMvsNF_rl125.all_events.tsv
+MAGNet	HCM vs NF	A3SS	exon	reference	10720	32	29	23	141			11569	10720	32	32	7.34		A3SS_HCMvsNF_rl125.all_events.tsv
+MAGNet	HCM vs NF	A5SS	exon	reference	6050	29	27	23	141			6620	6050	29	29	8.61		A5SS_HCMvsNF_rl125.all_events.tsv
+MAGNet	HCM vs NF	RI	exon	reference	5145	50	47	24	149			7090	5145	50	50	27.43		RI_HCMvsNF_rl125.all_events.tsv
+Colorado	DCM vs NF	SE	exon	reliable	19953	476	320	36	13	453.0	0.4472	24314	19953	498	476	17.94		SE_Colorado_DCMvsNF.all_events.tsv
+Colorado	DCM vs NF	MXE	exon	exclude	12183	1610	1115	36	13	1477.0	0.06116	13688	12183	1757	1610	11.0	own significant events do not reproduce in MAGNet (reverse slope 0.061, n=1477) [applies to all contrasts of this cohort and event type] | Deming variance ratio blown out (>2): se_adj unreliable	MXE_Colorado_DCMvsNF.all_events.tsv
+Colorado	DCM vs NF	A3SS	exon	not_tested	5099	116	104	36	13			5295	5099	120	116	3.702	too few events for a reverse-replication test	A3SS_Colorado_DCMvsNF.all_events.tsv
+Colorado	DCM vs NF	A5SS	exon	not_tested	3169	104	93	36	13			3286	3169	105	104	3.561	too few events for a reverse-replication test	A5SS_Colorado_DCMvsNF.all_events.tsv
+Colorado	DCM vs NF	RI	exon	not_tested	3348	150	144	36	13			4289	3348	152	150	21.94	too few events for a reverse-replication test	RI_Colorado_DCMvsNF.all_events.tsv
+Colorado	ICM vs NF	SE	exon	reliable	17019	407	274	13	13	453.0	0.4472	20056	17019	419	407	15.14		SE_Colorado_ICMvsNF.all_events.tsv
+Colorado	ICM vs NF	MXE	exon	exclude	9563	2112	1371	13	13	1477.0	0.06116	10594	9563	2280	2112	9.732	own significant events do not reproduce in MAGNet (reverse slope 0.061, n=1477) [applies to all contrasts of this cohort and event type] | Deming variance ratio blown out (>2): se_adj unreliable	MXE_Colorado_ICMvsNF.all_events.tsv
+Colorado	ICM vs NF	A3SS	exon	not_tested	4458	163	149	13	13			4609	4458	169	163	3.276	too few events for a reverse-replication test	A3SS_Colorado_ICMvsNF.all_events.tsv
+Colorado	ICM vs NF	A5SS	exon	not_tested	2639	113	100	13	13			2702	2639	114	113	2.332	too few events for a reverse-replication test	A5SS_Colorado_ICMvsNF.all_events.tsv
+Colorado	ICM vs NF	RI	exon	not_tested	3115	180	171	13	13			3939	3115	183	180	20.92	too few events for a reverse-replication test	RI_Colorado_ICMvsNF.all_events.tsv
+Colorado	DCM vs ICM	SE	exon	reliable	19998	2	1	36	13	453.0	0.4472	24288	19998	2	2	17.66		SE_Colorado_DCMvsICM.all_events.tsv
+Colorado	DCM vs ICM	MXE	exon	exclude	12203	0	0	36	13	1477.0	0.06116	13635	12203	0	0	10.5	own significant events do not reproduce in MAGNet (reverse slope 0.061, n=1477) [applies to all contrasts of this cohort and event type] | Deming variance ratio blown out (>2): se_adj unreliable	MXE_Colorado_DCMvsICM.all_events.tsv
+Colorado	DCM vs ICM	A3SS	exon	not_tested	5552	0	0	36	13			5770	5552	0	0	3.778	too few events for a reverse-replication test	A3SS_Colorado_DCMvsICM.all_events.tsv
+Colorado	DCM vs ICM	A5SS	exon	not_tested	3262	0	0	36	13			3368	3262	0	0	3.147	too few events for a reverse-replication test	A5SS_Colorado_DCMvsICM.all_events.tsv
+Colorado	DCM vs ICM	RI	exon	not_tested	3569	0	0	36	13			4606	3569	0	0	22.51	too few events for a reverse-replication test	RI_Colorado_DCMvsICM.all_events.tsv
+LBNL	DCM vs NF	SE	exon	not_tested	6263	0	0	5	4	11.0	0.7844	7225	6263	0	0	13.31	too few events for a reverse-replication test	SE_LBNL_DCMvsNF.all_events.tsv
+LBNL	DCM vs NF	MXE	exon	not_tested	5711	1	1	5	4	1.0		6173	5711	1	1	7.484	too few events for a reverse-replication test	MXE_LBNL_DCMvsNF.all_events.tsv
+LBNL	DCM vs NF	A3SS	exon	not_tested	1316	0	0	5	4			1344	1316	0	0	2.083	too few events for a reverse-replication test	A3SS_LBNL_DCMvsNF.all_events.tsv
+LBNL	DCM vs NF	A5SS	exon	not_tested	914	0	0	5	4			937	914	0	0	2.455	too few events for a reverse-replication test	A5SS_LBNL_DCMvsNF.all_events.tsv
+LBNL	DCM vs NF	RI	exon	not_tested	1427	0	0	5	4			1618	1427	0	0	11.8	too few events for a reverse-replication test	RI_LBNL_DCMvsNF.all_events.tsv
+Brigham	HCM vs ctrl	SE	exon	not_tested	21570	4	4	17	5	4.0		25474	21570	4	4	15.33	too few events for a reverse-replication test	Brigham_SE_HCM.all_events.tsv
+Brigham	HCM vs ctrl	MXE	exon	not_tested	9536	1	1	18	5	1.0		10457	9536	1	1	8.807	too few events for a reverse-replication test	Brigham_MXE_HCM.all_events.tsv
+Brigham	HCM vs ctrl	A3SS	exon	not_tested	6007	0	0	17	5			6159	6007	0	0	2.468	too few events for a reverse-replication test	Brigham_A3SS_HCM.all_events.tsv
+Brigham	HCM vs ctrl	A5SS	exon	not_tested	3323	0	0	17	5			3401	3323	0	0	2.293	too few events for a reverse-replication test	Brigham_A5SS_HCM.all_events.tsv
+Brigham	HCM vs ctrl	RI	exon	not_tested	2938	1	1	18	5			3442	2938	1	1	14.64	too few events for a reverse-replication test	Brigham_RI_HCM.all_events.tsv
+Fuwai	HCM vs ctrl	SE	exon	reliable	35925	169	112	28	9	156.0	0.4052	47773	35925	196	169	24.8		Fuwai_SE_HCM.all_events.tsv
+Fuwai	HCM vs ctrl	MXE	exon	exclude	26508	128	107	28	9	99.0	0.281	30186	26508	134	128	12.18	reproduces weakly in MAGNet (reverse slope 0.281, n=99) [applies to all contrasts of this cohort and event type] | Deming variance ratio blown out (>2): se_adj unreliable | excluded 6 Oct 2026: lowest MXE r in the study (0.088 unselected, 0.111 precision-filtered); see DECISION_fuwai_mxe_and_permutations.md	Fuwai_MXE_HCM.all_events.tsv
+Fuwai	HCM vs ctrl	A3SS	exon	not_tested	9387	5	5	28	9			9941	9387	5	5	5.573	too few events for a reverse-replication test	Fuwai_A3SS_HCM.all_events.tsv
+Fuwai	HCM vs ctrl	A5SS	exon	not_tested	6358	3	3	28	9			6794	6358	3	3	6.417	too few events for a reverse-replication test	Fuwai_A5SS_HCM.all_events.tsv
+Fuwai	HCM vs ctrl	RI	exon	not_tested	5516	17	16	28	9			7186	5516	17	17	23.24	too few events for a reverse-replication test	Fuwai_RI_HCM.all_events.tsv
+Stanford	HCM vs ctrl	SE	exon	not_tested	24025	8	7	13	6	9.0		29217	24025	8	8	17.77	too few events for a reverse-replication test	Stanford_SE_HCM.all_events.tsv
+Stanford	HCM vs ctrl	MXE	exon	not_tested	11565	1	1	13	6	4.0		12686	11565	1	1	8.837	too few events for a reverse-replication test	Stanford_MXE_HCM.all_events.tsv
+Stanford	HCM vs ctrl	A3SS	exon	not_tested	6719	0	0	13	6			6974	6719	0	0	3.656	too few events for a reverse-replication test	Stanford_A3SS_HCM.all_events.tsv
+Stanford	HCM vs ctrl	A5SS	exon	not_tested	3980	0	0	13	6			4107	3980	0	0	3.092	too few events for a reverse-replication test	Stanford_A5SS_HCM.all_events.tsv
+Stanford	HCM vs ctrl	RI	exon	not_tested	3048	3	3	13	6			3726	3048	3	3	18.2	too few events for a reverse-replication test	Stanford_RI_HCM.all_events.tsv

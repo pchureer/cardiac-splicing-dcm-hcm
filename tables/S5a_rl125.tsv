@@ -1,0 +1,6 @@
+part	event	arm	sig_JC	sig_JCEC	sig_change	tested_JC	tested_JCEC	tested_change	dir_agree	rho	dir_agree_sig	rho_sig
+a. JC vs JCEC	SE	MAGNet (discovery) @rl125	93	124	+33.3%	172662	174445	+1.0%	120031/124810 (96.17%)	0.892	92/93 (98.92%)	0.964
+a. JC vs JCEC	SE	Colorado @as-published	521	822	+57.8%	75171	81348	+8.2%	63333/68919 (91.89%)	0.81	506/521 (97.12%)	0.892
+a. JC vs JCEC	SE	Brigham @as-published	368	519	+41.0%	63979	68268	+6.7%	59135/61476 (96.19%)	0.919	367/368 (99.73%)	0.955
+a. JC vs JCEC	SE	Fuwai @as-published	582	679	+16.7%	115069	118059	+2.6%	99642/102604 (97.11%)	0.923	576/582 (98.97%)	0.95
+a. JC vs JCEC	SE	Stanford @as-published	796	868	+9.0%	79354	80963	+2.0%	72712/73929 (98.35%)	0.962	788/795 (99.12%)	0.972

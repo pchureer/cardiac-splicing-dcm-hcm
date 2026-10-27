@@ -1,0 +1,8 @@
+part	cohort	event_class	rev_n	rev_slope	rev_r	fwd_n	fwd_slope	unsel_slope	unsel_r	prec_slope	prec_r
+b. reverse replication	MAGNet internal	SE	432	0.695	0.912	637	0.889	1.072	0.554	1.025	0.427
+b. reverse replication	Colorado	SE	453	0.447	0.708	411	0.571	0.867	0.385	0.698	0.298
+b. reverse replication	LBNL	SE	11	0.784	0.955	278	0.525	0.641	0.37	0.429	0.187
+b. reverse replication	Fuwai	SE	156	0.405	0.581	646	0.328	0.366	0.19	0.322	0.136
+b. reverse replication	MAGNet internal	MXE	147	0.725	0.929	169	0.934	1.269	0.395	1.204	0.478
+b. reverse replication	Colorado	MXE	1477	0.061	0.254	56	0.533	11.037	0.157	15.02	0.198
+b. reverse replication	Fuwai	MXE	99	0.281	0.483	89	0.363	0.507	0.088	3.768	0.111

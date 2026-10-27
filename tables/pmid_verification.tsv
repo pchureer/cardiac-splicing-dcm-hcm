@@ -1,0 +1,41 @@
+ref	tracker	status	author	journal	year	volume	pages	title
+1	20124440	OK  	Kong SW	Circ Cardiovasc Genet	2010	3	138-46	Heart failure-associated changes in RNA splicing of sarcomere genes.
+2	30051286	OK  	Beqqali A	Biophys Rev	2018	10	1061-1071	Alternative splicing in cardiomyopathy.
+3	23775418	OK  	Lara-Pezzi E	J Cardiovasc Transl Res	2013	6	945-55	The alternative heart: impact of alternative splicing in heart disease.
+4	19712804	OK  	Brauch KM	J Am Coll Cardiol	2009	54	930-41	Mutations in ribonucleic acid binding protein gene cause familial dilated cardiomyopathy.
+5	38288598	OK  	Gregorich ZR	Circ Genom Precis Med	2024	17	e004355	Mechanisms of RBM20 Cardiomyopathy: Insights From Model Systems.
+6	42177204	OK  	Radke MH	Nat Commun	2026	17	doi: 10.1038/s41467-026-73230-w	RBM20 isoform regulation by independent transcription start sites adapts alternative splicing in development and disease.
+7	41877661	OK  	Furtado M	Cardiovasc Res	2026	122	906-918	Shared splicing dysregulation in heart failure associated with dilated and ischaemic cardiomyopathy and spatial specificity across cardiac regions.
+8	41902389	OK  	Wang Y	Cardiovasc Res	2026	122	808-809	RNA splicing in human cardiomyopathies: shared landscape in diverse pathogenic paths.
+10	33517678	OK  	Liu CF	Circ Genom Precis Med	2021	14	e003142	Whole-Transcriptome Profiling of Human Heart Tissues Reveals the Potential Novel Players and Regulatory Networks in Different Cardiomyopathy Subtypes of Heart Failure.
+11	35732739	OK  	Chaffin M	Nature	2022	608	174-180	Single-nucleus profiling of human dilated and hypertrophic cardiomyopathy.
+12	39170450	OK  	Li J	Heliyon	2024	10	e35408	Identification of alternative splicing regulatory patterns and characteristic splicing factors in heart failure using RNA-seq data and machine learning.
+13	41017471	OK  	Pan T	Circulation	2025	152	1501-1514	Single-Cell Splicing Isoform Atlas of the Adult Human Heart and Heart Failure.
+14	36345035	OK  	Britto-Borges T	J Transl Med	2022	20	513	Magnetique: an interactive web application to explore transcriptome signatures of heart failure.
+15	25528681	OK  	Liu Y	Genomics	2015	105	83-9	RNA-Seq identifies novel myocardial gene expression signatures of heart failure.
+16	30419824	OK  	Sweet ME	BMC Genomics	2018	19	812	Transcriptome analysis of human heart failure reveals dysregulated cell adhesion in dilated cardiomyopathy and activated immune pathways in ischemic heart failure.
+17	36130500	OK  	Spurrell CH	Cell Rep	2022	40	111400	Genome-wide fetalization of enhancer architecture in heart disease.
+18	33558530	OK  	Maron BA	Nat Commun	2021	12	873	Individualized interactomes for network-based precision medicine in hypertrophic cardiomyopathy with implications for other clinical pathophenotypes.
+19	31197155	OK  	Liu X	Sci Data	2019	6	90	Long non-coding and coding RNA profiling using strand-specific RNA-seq in human hypertrophic cardiomyopathy.
+20	33590861	OK  	Danecek P	Gigascience	2021	10	doi: 10.1093/gigascience/giab008	Twelve years of SAMtools and BCFtools.
+21	20644199	OK  	McKenna A	Genome Res	2010	20	1297-303	The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data.
+22	20926424	OK  	Manichaikul A	Bioinformatics	2010	26	2867-73	Robust relationship inference in genome-wide association studies.
+23	24695404	OK  	Bolger AM	Bioinformatics	2014	30	2114-20	Trimmomatic: a flexible trimmer for Illumina sequence data.
+24	23104886	OK  	Dobin A	Bioinformatics	2013	29	15-21	STAR: ultrafast universal RNA-seq aligner.
+25	39565199	OK  	Mudge JM	Nucleic Acids Res	2025	53	D966-D975	GENCODE 2025: reference gene annotation for human and mouse.
+26	38396040	OK  	Wang Y	Nat Protoc	2024	19	1083-1104	rMATS-turbo: an efficient and flexible computational tool for alternative splicing analysis of large-scale RNA-seq data.
+30	21605215	OK  	Zaykin DV	J Evol Biol	2011	24	1836-41	Optimally weighted Z-test is a powerful method for combining probabilities in meta-analysis.
+31	24960161	OK  	Maatz H	J Clin Invest	2014	124	3419-30	RNA-binding protein RBM20 represses splicing to orchestrate cardiac pre-mRNA processing.
+32	33805770	OK  	Maimaiti R	Int J Mol Sci	2021	22	doi: 10.3390/ijms22062928	RBM20-Mediated Pre-mRNA Splicing Has Muscle-Specificity and Differential Hormonal Responses between Muscles and in Muscle Cell Cultures.
+33	33397958	OK  	Chen X	Nat Commun	2021	12	89	QKI is a critical pre-mRNA alternative splicing regulator of cardiac myofibrillogenesis and contractile function.
+34	32276354	OK  	Fochi S	Genes (Basel)	2020	11	doi: 10.3390/genes11040402	The Emerging Role of the RBM20 and PTBP1 Ribonucleoproteins in Heart Development and Cardiovascular Diseases.
+35	19075228	OK  	Kalsotra A	Proc Natl Acad Sci U S A	2008	105	20333-8	A postnatal switch of CELF and MBNL proteins reprograms alternative splicing in the developing heart.
+36	15988035	OK  	Ladd AN	Mol Cell Biol	2005	25	6267-78	Cardiac tissue-specific repression of CELF activity disrupts alternative splicing and causes cardiomyopathy.
+37	15652482	OK  	Xu X	Cell	2005	120	59-72	ASF/SF2-regulated CaMKIIdelta alternative splicing temporally reprograms excitation-contraction coupling in cardiac muscle.
+38	34403477	OK  	Zhao W	Nucleic Acids Res	2022	50	D287-D294	POSTAR3: an updated platform for exploring post-transcriptional regulation coordinated by RNA-binding proteins.
+39	37144459	OK  	Kolberg L	Nucleic Acids Res	2023	51	W207-W212	g:Profiler-interoperable web service for functional enrichment analysis and gene identifier mapping (2023 update).
+40	42761222	OK  	Li J	Front Bioinform	2026	6	1934275	Alternative splicing remodeling and splicing factor regulatory networks define immune-associated molecular heterogeneity in dilated cardiomyopathy.
+41	40034311	OK  	Conning-Rowland M	Heliyon	2025	11	e42499	Application of CIBERSORTx and BayesPrism to deconvolution of bulk RNA-seq data from human myocardium and skeletal muscle.
+9	10.1007/s11886-026-02386-0	DOI	Akhigbe	Current Cardiology Reports	2026	28	62	Transcriptome Reprogramming in Heart Failure: The Hidden Splicing Code
+27	10.1111/j.2517-6161.1995.tb02031.x	DOI	Benjamini	Journal of the Royal Statistical Society Series B: Statistical Methodology	1995	57	289-300	Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing
+28	10.2307/2276774	DOI	Wilson	Journal of the American Statistical Association	1927	22	209-212	Probable Inference, the Law of Succession, and Statistical Inference

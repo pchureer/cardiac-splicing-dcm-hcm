@@ -1,0 +1,29 @@
+part	n_ctrl	n_cases	replicates	events	deming_mean	deming_sd	pearson_r	pct_same_direction	recorded_deming	recorded_sd	recorded_events	recorded_pct_same_direction	lambda_convention	x_axis
+control-size sweep (background arm)	5	28.0	5.0	357.0	0.9479	0.1147	0.7839	89.54	0.948	0.115	357.0	89.5	mean of squared SEs [inverted]	reference
+control-size sweep (background arm)	7	28.0	3.0	378.0	0.8909	0.1151	0.8016	90.14	0.891	0.115	378.0	90.1	mean of squared SEs [inverted]	reference
+control-size sweep (background arm)	9	28.0	5.0	353.0	0.9865	0.0975	0.8604	93.9	0.986	0.097	353.0	93.9	mean of squared SEs [inverted]	reference
+control-size sweep (background arm)	14	28.0	4.0	212.0	0.947	0.1035	0.896	95.66	0.947	0.104	212.0	95.7	mean of squared SEs [inverted]	reference
+control-size sweep (background arm)	28	28.0	2.0	83.0	1.0113	0.0254	0.9296	98.8	1.011	0.025	83.0	98.8	mean of squared SEs [inverted]	reference
+control-size sweep (background arm)	56	28.0	5.0	114.0	1.0062	0.0284	0.9407	98.6	1.006	0.028	114.0	98.6	mean of squared SEs [inverted]	reference
+control-size sweep (background arm)	83	28.0	5.0	114.0	0.9924	0.0	0.9447	99.12	0.992	0.0	114.0	99.1	mean of squared SEs [inverted]	reference
+case-count arm (background)	7	13.0	5.0	335.0	0.9844	0.0846							mean of squared SEs [inverted]	
+case-count arm (background)	7	18.0	4.0	350.0	0.9974	0.0819							mean of squared SEs [inverted]	
+case-count arm (background)	7	28.0	3.0	378.0	0.8909	0.1151							mean of squared SEs [inverted]	
+matched control size	5				0.9479				0.662				Brigham observed bg/prog 0.662/0.587	
+matched control size	7				0.8909				0.579				Stanford observed bg/prog 0.579/0.703	
+matched control size	9				0.9865				0.328				Fuwai observed bg/prog 0.328/0.44	
+control-size sweep (background arm, from control_size_sweep.tsv)	5	28.0	5.0	357.0	0.9479	0.1147	0.7839	89.54	0.948	0.115	357.0	89.5	as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (program arm, from control_size_sweep.tsv)	5	28.0	5.0	14.0	0.9874	0.1438	0.8604	92.67					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	7	13.0	5.0	335.0	0.9844	0.0846	0.7747	87.36					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (program arm, from control_size_sweep.tsv)	7	13.0	5.0	15.0	1.0822	0.2004	0.872	92.55					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	7	18.0	4.0	350.0	0.9974	0.0819	0.8173	90.94					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (program arm, from control_size_sweep.tsv)	7	18.0	4.0	15.0	1.0796	0.0749	0.9173	98.61					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	7	28.0	3.0	378.0	0.8909	0.1151	0.8016	90.14	0.891	0.115	378.0	90.1	as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (program arm, from control_size_sweep.tsv)	7	28.0	3.0	14.0	0.8953	0.1996	0.9296	95.83					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	9	28.0	5.0	354.0	0.9865	0.0975	0.8604	93.9	0.986	0.097	353.0	93.9	as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (program arm, from control_size_sweep.tsv)	9	28.0	5.0	15.0	1.0738	0.1116	0.9289	94.92					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	14	28.0	4.0	212.0	0.947	0.1035	0.896	95.66	0.947	0.104	212.0	95.7	as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (program arm, from control_size_sweep.tsv)	14	28.0	4.0	11.0	1.0147	0.109	0.9335	97.22					as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	28	28.0	2.0	84.0	1.0113	0.0254	0.9296	98.8	1.011	0.025	83.0	98.8	as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	56	28.0	5.0	114.0	1.0062	0.0284	0.9407	98.6	1.006	0.028	114.0	98.6	as computed by 19 (see control_size_sweep.tsv)	reference
+control-size sweep (background arm, from control_size_sweep.tsv)	83	28.0	5.0	114.0	0.9924	0.0	0.9447	99.12	0.992	0.0	114.0	99.1	as computed by 19 (see control_size_sweep.tsv)	reference

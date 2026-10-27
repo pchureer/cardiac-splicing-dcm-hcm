@@ -1,0 +1,6 @@
+cohort	deming	pearson_r	n	independent
+Colorado	0.5207	0.5855	471	True
+Brigham	0.4758	0.5575	442	True
+Fuwai	0.2429	0.3604	714	True
+Stanford	0.3863	0.5006	536	True
+LBNL	0.445	0.5313	199	False

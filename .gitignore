@@ -1,0 +1,23 @@
+# The event tables are the Zenodo record, not the git record (README section 6).
+events/
+
+# Never commit genotype-derived output. See README section 5.
+*.vcf
+*.vcf.gz
+*.bcf
+*kinship*
+*genotyp*
+geno/
+*.bed
+*.bim
+*.fam
+
+# Intermediate state
+*.bak
+*.bak.*
+*.pid
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+slurm-*.out
+*.log

@@ -1,0 +1,23 @@
+part	panel	gene	disease_gene	clingen	beta_sd_unadjusted	p_unadjusted	n	beta_sd_technical	p_technical	fdr_unadjusted	fdr_technical	cell_type_basis
+A	score	CM_score	-		0.6079	1.5084896619824077e-08	326	0.5155	1.095049491933205e-06	2.7655643803010814e-08	1.7207920587521791e-06	composite, not a gene: mean z-score of the cardiomyocyte marker panel listed below
+A	score	FB_score	-		0.8581	2.3774972656228323e-16	326	0.9509	5.857889359579212e-18	7.413004854967683e-16	2.1478927651790445e-17	composite, not a gene: mean z-score of the fibroblast marker panel listed below
+A	control	GAPDH	-		0.1864	0.0895507347560154	326	-0.0296	0.7576033080681054	0.1094508980351299	0.7576033080681054	housekeeping gene; NOT a cell-type marker — carried as the negative control
+B	cardiomyocyte	TNNI3	yes	Definitive-HCM;Moderate-DCM	0.862	1.6887145231012915e-16	326	0.6848	1.7245965532939188e-21	6.1919532513714035e-16	1.264704139082207e-20	cardiac troponin I; thin-filament inhibitory subunit, cardiac-restricted isoform
+B	cardiomyocyte	MYL2	yes	Definitive-HCM	0.9498	3.821659952061986e-20	326	0.8573	2.8278695947014284e-21	1.7108317079237932e-19	1.5553282770857857e-20	ventricular regulatory myosin light chain, cardiomyocyte-restricted
+B	cardiomyocyte	MYL3	yes	Definitive-HCM	0.0372	0.7352996720177849	326	-0.1865	0.0239412939293037	0.7352996720177849	0.0351138977629788	ventricular/slow essential myosin light chain, cardiomyocyte-restricted
+B	cardiomyocyte	ACTN2	yes	Moderate-DCM	0.6505	1.2091323488566702e-09	326	0.6683	4.8694527390696065e-09	2.4182646977133404e-09	8.927330021627612e-09	alpha-actinin-2; Z-disc crosslinker, striated-muscle restricted
+B	cardiomyocyte	TCAP	yes	Limited-DCM	0.1445	0.1885293867374415	326	-0.0566	0.5304084939464117	0.2182971846433533	0.5556660412771931	telethonin (titin-cap); Z-disc, striated-muscle restricted
+B	cardiomyocyte	CSRP3	yes	Definitive-HCM	0.8157	8.790967494553923e-15	326	0.7696	3.357199120083696e-13	2.1489031653354032e-14	8.206486737982368e-13	muscle LIM protein; Z-disc mechanosensor, striated-muscle restricted
+B	cardiomyocyte	MYBPC3	yes	Definitive-HCM	0.263	0.0163403591819714	326	0.1346	0.2156160267384366	0.0224679938752107	0.2496606625392423	cardiac myosin-binding protein C; sarcomeric A-band, cardiac-restricted isoform
+B	cardiomyocyte	RYR2	no		-0.2257	0.0395892946123147	326	-0.0671	0.4211704381690125	0.0512332047924073	0.4632874819859137	cardiac ryanodine receptor; sarcoplasmic reticulum Ca2+ release channel, cardiac-restricted isoform
+B	cardiomyocyte	PLN	yes	Definitive-DCM;Definitive-ARVC	-0.3284	0.0026504958333806	326	-0.1478	0.1174650419680534	0.0038873938889582	0.1435683846276209	phospholamban; SERCA2a regulator at the sarcoplasmic reticulum, cardiomyocyte-enriched
+B	fibroblast	COL1A1	no		0.9497	3.8882538816449846e-20	326	0.9235	2.1208605616352844e-17	1.7108317079237932e-19	6.665561765139464e-17	collagen I alpha-1; principal fibrillar collagen secreted by fibroblasts
+B	fibroblast	COL1A2	no		0.9794	1.703675275984891e-21	326	0.9616	5.580541612181421e-19	1.2493618690555864e-20	2.4554383093598255e-18	collagen I alpha-2; principal fibrillar collagen secreted by fibroblasts
+B	fibroblast	COL3A1	no		0.6546	9.371439587261741e-10	326	0.7329	4.703631958689739e-11	2.061716709197582e-09	1.0347990309117428e-10	collagen III alpha-1; interstitial fibrillar collagen, fibroblast-derived
+B	fibroblast	POSTN	no		0.5455	4.304692622354558e-07	326	0.7063	2.600280677406145e-10	6.764516977985734e-07	5.20056135481229e-10	periostin; matricellular protein of activated fibroblasts
+B	fibroblast	FN1	no		0.1232	0.2624704086678251	326	0.2085	0.0647876568065441	0.2887174495346076	0.0838428499849394	fibronectin 1; matrix glycoprotein, fibroblast-derived
+B	fibroblast	DCN	no		0.0984	0.3710368985816665	326	0.2495	0.0260989142819205	0.3887053223236506	0.0358860071376407	decorin; small leucine-rich interstitial proteoglycan, fibroblast-derived
+B	fibroblast	LUM	no		1.4928	1.3414926829090748e-60	326	1.5959	1.0211019267416694e-63	2.9512839023999648e-59	2.2464242388316727e-62	lumican; interstitial proteoglycan, fibroblast-derived
+B	EXCLUDED by hand	NPPA	no		1.1093	2.830193051592026e-28	326	1.0779	1.8370223048791875e-24	3.1132123567512287e-27	2.020724535367106e-23	atrial natriuretic peptide; EXCLUDED a priori as a fetal-gene-programme marker
+B	EXCLUDED by hand	NPPB	no		0.8567	2.695638129079157e-16	326	0.8341	2.9095672707817324e-14	7.413004854967683e-16	8.001309994649765e-14	B-type natriuretic peptide; EXCLUDED a priori as a fetal-gene-programme marker
+B	EXCLUDED by hand	MYH7	yes	Definitive-HCM;Definitive-DCM	0.6065	1.6379347173454042e-08	326	0.5754	3.25827969307598e-07	2.7718895216614536e-08	5.514011788282426e-07	beta-myosin heavy chain; EXCLUDED a priori as a fetal-gene-programme marker

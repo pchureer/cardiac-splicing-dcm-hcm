@@ -1,0 +1,4 @@
+contrast	event_type	file	exon-level_FDR only	exon-level_+|dPSI|>=0.05	exon-level_+|dPSI|>=0.10	full-coordinate_FDR only	full-coordinate_+|dPSI|>=0.05	full-coordinate_+|dPSI|>=0.10	exon-level_tested	full-coordinate_tested
+MAGNet DCM vs NF	SE	SE_rl125.all_events.tsv	5401	2373	813	6186	2765	944	53456	80973
+MAGNet HCM vs NF	SE	SE_HCMvsNF_rl125.all_events.tsv	1430	913	431	1528	982	464	39607	54892
+MAGNet DCM vs HCM	SE	SE_DCMvsHCM_rl125.all_events.tsv	1	0	0	1	0	0	38273	52771

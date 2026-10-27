@@ -1,0 +1,10 @@
+artefact	producer	patched_by	command	env	env_optional	outputs	notes
+S2_rl125.tsv	81_build_s2.py	178_patch_81_s2_rl125.py	python3 81_build_s2.py	TBL_SUFFIX=_rl125;S2_FUWAI_R=0.089		S2_rl125.tsv	Supp Table 4
+S8b_reverse_replication_rl125.tsv	180_build_s8b_rl125.py		python3 180_build_s8b_rl125.py	TBL_SUFFIX=_rl125		S8b_reverse_replication_rl125.tsv	Supp Table 8(b)
+S8a_permutations_rl125.tsv	184_update_s8a_magnet_rl125.py		python3 184_update_s8a_magnet_rl125.py --apply	S8A_OVERWRITE=1		S8a_permutations_rl125.tsv	Supp Table 8(a); job 411394
+SuppFig2_matched_panel_rl125.png	179_supp_fig2_matched_panel.py		python3 179_supp_fig2_matched_panel.py --out SuppFig2_matched_panel_rl125	TBL_SUFFIX=_rl125;S4_RECORD=common=161,A=0.690,B=0.968,A_CI=0.570:0.806,B_CI=0.875:1.069,dirA=130,dirB=140,product=0.668,C=0.600;S4_PER_COHORT=Colorado=0.5999,Brigham=0.5099,Stanford=0.4008,Fuwai=0.2948		SuppFig2_matched_panel_rl125.png,SuppFig2_matched_panel_rl125.pdf,SuppFig2_matched_panel_rl125_points.tsv	Supp Fig 2
+S5_rl125.tsv	62_build_s5.py		python3 62_build_s5.py	TBL_SUFFIX=_rl125;S5_SLOPE=Colorado=0.5999,Brigham=0.5099,Stanford=0.4008,Fuwai=0.2948;S5_CONC=Colorado=80.8,Brigham=81.9,Fuwai=70.8,Stanford=75.8;S5_DISC_SE=exon=813,full=944		S5_rl125.tsv	Supp Table 5; env from 62's refusal
+S1a_rl125.tsv	76_build_s1_v2.py			TBL_SUFFIX=_rl125		S1a.tsv	Supp Table 1; COMMAND TO FILL
+S1b_rl125.tsv	69_build_s1b_ladder.py			TBL_SUFFIX=_rl125		S1b.tsv	Supp Table 2; COMMAND TO FILL
+S7_rl125.tsv	65_build_s7.py			TBL_SUFFIX=_rl125		S7_rl125.tsv,S7_rl125.md	Supp Table 7; COMMAND TO FILL
+SupplementaryTable10_lvef_summary_rl125.tsv	77_lvef_s3.py			EXPECT_TESTED=53456;EXPECT_SIG=813		SupplementaryTable10_lvef_summary_rl125.tsv	Supp Table 10; COMMAND TO FILL

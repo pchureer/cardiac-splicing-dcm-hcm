@@ -1,0 +1,6 @@
+order	model	table_file	n_rows_transcript_context	n_tested_exon_level	duplication_factor	n_significant	recorded_significant	reproduced	pct_of_base	delta_vs_base
+1	base: sex + age + RIN	SE_v2filtered_rl125.all_events.tsv	80973	53456	1.515	813	813	yes	100.0	0
+2	+ cardiomyocyte / fibroblast composition	SE_v2compadj_rl125.all_events.tsv	80973	53456	1.515	777	777	yes	95.6	-36
+3	+ composition + library size + TIN	SE_v2fulladj_rl125.all_events.tsv	80973	53456	1.515	732	732	yes	90.0	-81
+4	+ sequencing pool	SE_v2pooladj_rl125.all_events.tsv	80973	53456	1.515	744	744	yes	91.5	-69
+5	excluding donors < 25 y	SE_v2age25_rl125.all_events.tsv	80247	53075	1.512	770	770	yes	94.7	-43

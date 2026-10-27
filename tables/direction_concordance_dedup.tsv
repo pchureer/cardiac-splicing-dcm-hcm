@@ -1,0 +1,6 @@
+cohort	n	same	pct	p	pooled
+Colorado	471	375	79.618	2.7177e-40	True
+LBNL	199	151	75.879	6.6605e-14	False
+Brigham	442	359	81.222	2.873e-42	True
+Fuwai	714	494	69.188	2.1577e-25	True
+Stanford	536	408	76.119	2.379e-35	True

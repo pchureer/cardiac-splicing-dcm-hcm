@@ -1,0 +1,2 @@
+base_table	adj_table	base_significant	adj_significant	retained	retained_pct	record_retained	record_pct	delta_events	delta_points
+SE_v2filtered_rl125.all_events.tsv	SE_v2cmfrac_rl125.all_events.tsv	813	939	627	77.12	498	61.25	129	15.87

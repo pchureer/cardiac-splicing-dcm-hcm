@@ -1,0 +1,37 @@
+list	script	line	n	overlap	source	genes	comment
+CM_markers	02_build_expr_matrix.py	38	9	1.00	NONE	ACTN2,CSRP3,MYBPC3,MYL2,MYL3,PLN,RYR2,TCAP,TNNI3	Cardiomyocyte panel: structural/contractile genes that are CM-restricted. | Deliberately excludes NPPA/NPPB/MYH7 (strongly disease-regulated, would make | the score a disease proxy rather than a composition proxy).
+FB_markers	02_build_expr_matrix.py	39	7	1.00	NONE	COL1A1,COL1A2,COL3A1,DCN,FN1,LUM,POSTN	
+RBM20_targets	03_rbm20_psi_correlation.py	207	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	05_hcm_specificity.py	60	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	06_sensitivity_concordance.py	55	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	07_dcm_vs_hcm_direct.py	151	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	10_why_events_were_lost.py	44	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	17_split_control_summary.py	46	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	19_control_size_sweep.sbatch	127	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	20_jc_vs_jcec_readlength.sbatch	121	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	21_replication_v2.py	47	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	22_symmetry_winners_curse.py	82	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	lvef_correlation.py	23	9	1.00	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,PDLIM3,SORBS1,TNNT2,TTN	
+RBM20_targets	phase2_diffsplice.py	97	18	0.50	NONE	CACNA1C,CAMK2D,CAMK2G,DTNA,FHOD3,IMMT,LDB3,LMO7,MLIP,NEXN,OBSCN,PDLIM3,RYR2,SORBS1,SPEN,TNNT2,TPM1,TTN	
+RBM20_targets	phase2_diffsplice_v2.py	336	18	0.50	NONE	CACNA1C,CAMK2D,CAMK2G,DTNA,FHOD3,IMMT,LDB3,LMO7,MLIP,NEXN,OBSCN,PDLIM3,RYR2,SORBS1,SPEN,TNNT2,TPM1,TTN	
+RBM20_targets	replication_concordance.py	8	11	0.82	NONE	CAMK2D,DTNA,LDB3,LMO7,MLIP,NEXN,PDLIM3,SORBS1,TNNT2,TPM1,TTN	
+candidate_RBPs	02_build_expr_matrix.py	40	8	0.46	NONE	CELF1,GAPDH,HNRNPA1,MBNL1,MBNL2,PTBP1,QKI,SRSF1	
+candidate_RBPs	03_rbm20_psi_correlation.py	208	6	0.55	NONE	CELF1,GAPDH,MBNL1,PTBP1,QKI,SRSF1	
+candidate_RBPs	23_signature_rbp_scan.sbatch	55	10	0.91	file-docstring	CELF1,GAPDH,HNRNPA0,HNRNPF,MBNL1,PTBP1,QKI,RBM5,SRSF1,ZRANB2	
+unclassified	13_gene_lists_for_enrichment.py	164	4	0.00	NONE	BEFORE,BELIEVE,SANITY,YOU	
+unclassified	17_split_control_summary.py	310	3	0.00	NONE	ABSOLUTE,CAVEATS,TWO	
+unclassified	23_signature_rbp_scan.sbatch	90	4	0.15	file-docstring	HNRNPA0,HNRNPA1,HNRNPF,HNRNPH1	
+unclassified	24_lock_event_convention.py	177	3	0.00	file-docstring	CONVENTION,MOVES,MUCH	
+unclassified	24_lock_event_convention.py	195	3	0.00	file-docstring	CHANGE,CHOICE,DOES	---------- 2. do the conclusions survive the switch? ------------------
+unclassified	30_build_dedup_lists.py	113	4	0.00	NONE	AFTER,BEFORE,COHORT,SIZES	
+unclassified	30_build_dedup_lists.py	188	3	0.00	NONE	CONTRASTS,MUST,RERUN	
+unclassified	30_build_dedup_lists.py	201	4	0.00	NONE	COULD,IDENTITY,SAMPLES,SEE	
+unclassified	32_rerun_dedup_contrasts.sbatch	194	3	0.00	NONE	MORE,MOVED,THAN	
+unclassified	33_rebuild_summaries_dedup.py	335	4	0.00	NONE	AFFECTED,BACK,FELL,TABLES	
+unclassified	41_figure6_enrichment.py	106	3	0.09	file-docstring	NEB,OBSCN,TTN	
+unclassified	41_figure6_enrichment.py	108	5	0.08	file-docstring	CSRP3,DMD,MYOM1,MYOT,SORBS2	
+unclassified	41_figure6_enrichment.py	110	3	0.09	file-docstring	MYL3,MYL6,TPM1	
+unclassified	44_fill_recompute.py	199	3	0.00	NONE	BELOW,NOTHING,SHOULD	
+unclassified	45_cohort_slopes.py	214	3	0.00	NONE	EVENT,FIVE,TYPES	
+unclassified	47_graphical_abstract.py	118	3	0.27	file-docstring	GAPDH,QKI,RBM20	the only three a thumbnail can carry
+unclassified	47_graphical_abstract.py	541	3	0.00	file-docstring	BEFORE,SUBMIT,YOU	

@@ -1,0 +1,16 @@
+part	event_class	base_significant	retained	lost	retained_pct	dpsi_rho	same_direction_pct	effect_retained_kept	effect_retained_lost	se_inflation_kept	se_inflation_lost	lost_losing_over_half_pct	lost_same_direction_pct	model	significant_SE	tested
+a. composition	SE	926.0	590.0	336.0	63.7	0.914	100.0									
+a. composition	MXE	231.0	132.0	99.0	57.1	0.919	99.6									
+a. composition	A3SS	90.0	61.0	29.0	67.8	0.929	100.0									
+a. composition	A5SS	84.0	44.0	40.0	52.4	0.911	100.0									
+a. composition	RI	114.0	60.0	54.0	52.6	0.874	100.0									
+a. attrition	SE							1.059	0.809	1.214	1.215	6.0	100.0			
+a. attrition	MXE							1.013	0.737	1.203	1.184	12.1	99.0			
+a. attrition	A3SS							1.055	0.796	1.211	1.21	3.4	100.0			
+a. attrition	A5SS							1.05	0.817	1.225	1.231	7.5	100.0			
+a. attrition	RI							1.088	0.774	1.219	1.217	16.7	100.0			
+b. covariate ladder														base: sex + age + RIN	926.0	62971.0
+b. covariate ladder														+ cardiomyocyte / fibroblast composition	899.0	62971.0
+b. covariate ladder														+ composition + library size + TIN	835.0	62971.0
+b. covariate ladder														+ sequencing pool	866.0	62971.0
+b. covariate ladder														excluding donors < 25 y (62,482 tested)	888.0	62971.0

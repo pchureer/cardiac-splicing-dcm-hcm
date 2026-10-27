@@ -1,0 +1,7 @@
+Cohort	Contrast	n	SE tested	FDR<0.05	+|dPSI|>=0.05	+|dPSI|>=0.10	Classes	All tested	All significant
+MAGNet	DCM vs NF	166/166	62971	5301	2592	926	5	156115	1445
+MAGNet	HCM vs NF	28/166	48024	1355	909	468	5	118234	695
+MAGNet	DCM vs HCM	166/28	45380	3	1	0	—		
+Colorado	DCM vs NF	36/13	19953			476	4 (f)	31569	846
+Colorado	ICM vs NF	13/13	17019			407	4 (f)	27231	863
+Colorado	DCM vs ICM	36/13	19998			2	4 (f)	32381	2

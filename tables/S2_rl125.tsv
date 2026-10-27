@@ -1,0 +1,51 @@
+cohort	contrast	event_class	tested	significant	significant_fdr_only	pct_significant	excluded_from_paper	exclusion_reason	source_file	is_discovery	equiv_n_events	equiv_ratio_exon	equiv_ratio_fullcoord_record
+MAGNet	DCM vs NF	SE	53456	813	5401	1.5209	no		SE_v2filtered_rl125.all_events.tsv	yes			
+MAGNet	DCM vs NF	MXE	62537	229	2887	0.3662	no		MXE_v2filtered_rl125.all_events.tsv	yes			
+MAGNet	DCM vs NF	A3SS	14346	87	597	0.6064	no		A3SS_v2filtered_rl125.all_events.tsv	yes			
+MAGNet	DCM vs NF	A5SS	8360	74	487	0.8852	no		A5SS_v2filtered_rl125.all_events.tsv	yes			
+MAGNet	DCM vs NF	RI	6243	91	680	1.4576	no		RI_v2filtered_rl125.all_events.tsv	yes			
+MAGNet	HCM vs NF	SE	39607	431	1430	1.0882	no		SE_HCMvsNF_rl125.all_events.tsv	no			
+MAGNet	HCM vs NF	MXE	46956	128	484	0.2726	no		MXE_HCMvsNF_rl125.all_events.tsv	no			
+MAGNet	HCM vs NF	A3SS	10720	32	84	0.2985	no		A3SS_HCMvsNF_rl125.all_events.tsv	no			
+MAGNet	HCM vs NF	A5SS	6050	29	106	0.4793	no		A5SS_HCMvsNF_rl125.all_events.tsv	no			
+MAGNet	HCM vs NF	RI	5145	50	133	0.9718	no		RI_HCMvsNF_rl125.all_events.tsv	no			
+MAGNet	DCM vs HCM	SE	38273	0	1	0.0	no		SE_DCMvsHCM_rl125.all_events.tsv	no			
+MAGNet	DCM vs HCM	MXE	45001	0	0	0.0	no		MXE_DCMvsHCM_rl125.all_events.tsv	no			
+MAGNet	DCM vs HCM	A3SS	10788	1	1	0.0093	no		A3SS_DCMvsHCM_rl125.all_events.tsv	no			
+MAGNet	DCM vs HCM	A5SS	6004	1	1	0.0167	no		A5SS_DCMvsHCM_rl125.all_events.tsv	no			
+MAGNet	DCM vs HCM	RI	5169	0	0	0.0	no		RI_DCMvsHCM_rl125.all_events.tsv	no			
+Colorado	DCM vs NF	SE	19953	476	969	2.3856	no		SE_Colorado_DCMvsNF_dedup.all_events.tsv	no			
+Colorado	DCM vs NF	MXE	12183	1610	5453	13.2151	yes	reverse-replication slope 0.060 (n = 1,478) against SE's 0.443	MXE_Colorado_DCMvsNF_dedup.all_events.tsv	no			
+Colorado	DCM vs NF	A3SS	5099	116	350	2.275	no		A3SS_Colorado_DCMvsNF_dedup.all_events.tsv	no			
+Colorado	DCM vs NF	A5SS	3169	104	256	3.2818	no		A5SS_Colorado_DCMvsNF_dedup.all_events.tsv	no			
+Colorado	DCM vs NF	RI	3348	150	438	4.4803	no		RI_Colorado_DCMvsNF_dedup.all_events.tsv	no			
+Colorado	ICM vs NF	SE	17019	407	680	2.3914	no		SE_Colorado_ICMvsNF_dedup.all_events.tsv	no			
+Colorado	ICM vs NF	MXE	9563	2112	4491	22.0851	yes	reverse-replication slope 0.060 (n = 1,478) against SE's 0.443	MXE_Colorado_ICMvsNF_dedup.all_events.tsv	no			
+Colorado	ICM vs NF	A3SS	4458	163	463	3.6563	no		A3SS_Colorado_ICMvsNF_dedup.all_events.tsv	no			
+Colorado	ICM vs NF	A5SS	2639	113	237	4.2819	no		A5SS_Colorado_ICMvsNF_dedup.all_events.tsv	no			
+Colorado	ICM vs NF	RI	3115	180	460	5.7785	no		RI_Colorado_ICMvsNF_dedup.all_events.tsv	no			
+Colorado	DCM vs ICM	SE	19998	2	3	0.01	no		SE_Colorado_DCMvsICM_dedup.all_events.tsv	no			
+Colorado	DCM vs ICM	MXE	12203	0	2	0.0	yes	reverse-replication slope 0.060 (n = 1,478) against SE's 0.443	MXE_Colorado_DCMvsICM_dedup.all_events.tsv	no			
+Colorado	DCM vs ICM	A3SS	5552	0	0	0.0	no		A3SS_Colorado_DCMvsICM_dedup.all_events.tsv	no			
+Colorado	DCM vs ICM	A5SS	3262	0	0	0.0	no		A5SS_Colorado_DCMvsICM_dedup.all_events.tsv	no			
+Colorado	DCM vs ICM	RI	3569	0	0	0.0	no		RI_Colorado_DCMvsICM_dedup.all_events.tsv	no			
+Brigham	HCM vs donor	SE	21570	4	8	0.0185	no		Brigham_SE_HCM.all_events.tsv	no			
+Brigham	HCM vs donor	MXE	9536	1	2	0.0105	no		Brigham_MXE_HCM.all_events.tsv	no			
+Brigham	HCM vs donor	A3SS	6007	0	0	0.0	no		Brigham_A3SS_HCM.all_events.tsv	no			
+Brigham	HCM vs donor	A5SS	3323	0	1	0.0	no		Brigham_A5SS_HCM.all_events.tsv	no			
+Brigham	HCM vs donor	RI	2938	1	1	0.034	no		Brigham_RI_HCM.all_events.tsv	no			
+Fuwai	HCM vs donor	SE	35925	169	323	0.4704	no		Fuwai_SE_HCM.all_events.tsv	no			
+Fuwai	HCM vs donor	MXE	26508	128	907	0.4829	yes	lowest MXE correlation in the study, r = 0.089 (paired-end 150 bp)	Fuwai_MXE_HCM.all_events.tsv	no			
+Fuwai	HCM vs donor	A3SS	9387	5	9	0.0533	no		Fuwai_A3SS_HCM.all_events.tsv	no			
+Fuwai	HCM vs donor	A5SS	6358	3	4	0.0472	no		Fuwai_A5SS_HCM.all_events.tsv	no			
+Fuwai	HCM vs donor	RI	5516	17	45	0.3082	no		Fuwai_RI_HCM.all_events.tsv	no			
+Stanford	HCM vs donor	SE	24025	8	10	0.0333	no		Stanford_SE_HCM_dedup.all_events.tsv	no			
+Stanford	HCM vs donor	MXE	11565	1	2	0.0086	no		Stanford_MXE_HCM_dedup.all_events.tsv	no			
+Stanford	HCM vs donor	A3SS	6719	0	0	0.0	no		Stanford_A3SS_HCM_dedup.all_events.tsv	no			
+Stanford	HCM vs donor	A5SS	3980	0	1	0.0	no		Stanford_A5SS_HCM_dedup.all_events.tsv	no			
+Stanford	HCM vs donor	RI	3048	3	4	0.0984	no		Stanford_RI_HCM_dedup.all_events.tsv	no			
+MAGNet	equivalence ratio	SE					no		DCM vs NF x DCM vs HCM	no	659	0.2145	0.22
+MAGNet	equivalence ratio	MXE					no		DCM vs NF x DCM vs HCM	no	140	0.1762	0.19
+MAGNet	equivalence ratio	A3SS					no		DCM vs NF x DCM vs HCM	no	63	0.1641	0.238
+MAGNet	equivalence ratio	A5SS					no		DCM vs NF x DCM vs HCM	no	51	0.2285	0.204
+MAGNet	equivalence ratio	RI					no		DCM vs NF x DCM vs HCM	no	73	0.2974	0.308

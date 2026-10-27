@@ -1,0 +1,28 @@
+excluded_sample	retained_sample	excluded_cohort	retained_cohort	disease_group	kinship	reason_for_the_choice
+SRR7426833	SRR7426832	Colorado	Colorado	DCM	0.4837	fewer called sites (696 vs 896)
+SRR7426789	SRR7426790	Colorado	Colorado	NF	0.4805	fewer called sites (728 vs 830)
+SRR8575322	SRR10677021	LBNL	MAGNet	DCM	0.4372	lower-priority cohort
+SRR8575323	SRR10677023	LBNL	MAGNet	DCM	0.4642	lower-priority cohort
+SRR8575324	SRR10677029	LBNL	MAGNet	DCM	0.425	lower-priority cohort
+SRR8575325	SRR10677035	LBNL	MAGNet	DCM	0.4846	lower-priority cohort
+SRR8575326	SRR10677036	LBNL	MAGNet	DCM	0.4518	lower-priority cohort
+SRR8575328	SRR10677066	LBNL	MAGNet	DCM	0.4641	lower-priority cohort
+SRR8575329	SRR10677091	LBNL	MAGNet	DCM	0.4537	lower-priority cohort
+SRR8575330	SRR10677093	LBNL	MAGNet	DCM	0.4631	lower-priority cohort
+SRR8575331	SRR10677128	LBNL	MAGNet	DCM	0.4531	lower-priority cohort
+SRR8575332	SRR10677129	LBNL	MAGNet	DCM	0.4419	lower-priority cohort
+SRR8575300	SRR10676971	LBNL	MAGNet	NF	0.4577	lower-priority cohort
+SRR8575302	SRR10676990	LBNL	MAGNet	NF	0.4581	lower-priority cohort
+SRR8575304	SRR10676995	LBNL	MAGNet	NF	0.4444	lower-priority cohort
+SRR8575305	SRR10677003	LBNL	MAGNet	NF	0.4592	lower-priority cohort
+SRR8575306	SRR10677008	LBNL	MAGNet	NF	0.4756	lower-priority cohort
+SRR8575307	SRR10677045	LBNL	MAGNet	NF	0.4584	lower-priority cohort
+SRR8575308	SRR10677019	LBNL	MAGNet	NF	0.4857	lower-priority cohort
+SRR8575311	SRR10677032	LBNL	MAGNet	NF	0.4727	lower-priority cohort
+SRR8575312	SRR10677016	LBNL	MAGNet	NF	0.4704	lower-priority cohort
+SRR8575313	SRR10677057	LBNL	MAGNet	NF	0.4776	lower-priority cohort
+SRR8575314	SRR10677079	LBNL	MAGNet	NF	0.4851	lower-priority cohort
+SRR8575315	SRR10677097	LBNL	MAGNet	NF	0.4636	lower-priority cohort
+SRR8575316	SRR10677105	LBNL	MAGNet	NF	0.4822	lower-priority cohort
+SRR8575317	SRR10677139	LBNL	MAGNet	NF	0.4661	lower-priority cohort
+SRR15183558	SRR15183553	Stanford	Stanford	ctrl	0.4663	fewer called sites (875 vs 900)

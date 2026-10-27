@@ -1,0 +1,26 @@
+part	row	value_1	label_1	value_2	label_2	change
+a. JC vs JCEC	Brigham	0.51	Deming, JCEC	0.605	Deming, JC	0.095
+a. JC vs JCEC	Brigham, matched subset (n=247)	0.623	Deming, JCEC (matched)	0.616	Deming, JC (matched)	-0.007
+a. JC vs JCEC	Fuwai	0.295	Deming, JCEC	0.317	Deming, JC	0.022
+a. JC vs JCEC	Fuwai, matched subset (n=436)	0.349	Deming, JCEC (matched)	0.346	Deming, JC (matched)	-0.004
+a. JC vs JCEC	Stanford	0.401	Deming, JCEC	0.417	Deming, JC	0.017
+a. JC vs JCEC	Stanford, matched subset (n=352)	0.428	Deming, JCEC (matched)	0.433	Deming, JC (matched)	0.005
+a. JC vs JCEC (counts)	MAGNet (discovery) @rl125	93 significant	JC	124 significant	JCEC	+33.3%
+a. JC vs JCEC (counts)	MAGNet (discovery) @rl125, direction	92/93 (98.92%)	same direction, JC-significant	0.964	Spearman rho	-
+a. JC vs JCEC (counts)	Colorado @as-published	521 significant	JC	822 significant	JCEC	+57.8%
+a. JC vs JCEC (counts)	Colorado @as-published, direction	506/521 (97.12%)	same direction, JC-significant	0.892	Spearman rho	-
+a. JC vs JCEC (counts)	Brigham @as-published	368 significant	JC	519 significant	JCEC	+41.0%
+a. JC vs JCEC (counts)	Brigham @as-published, direction	367/368 (99.73%)	same direction, JC-significant	0.955	Spearman rho	-
+a. JC vs JCEC (counts)	Fuwai @as-published	582 significant	JC	679 significant	JCEC	+16.7%
+a. JC vs JCEC (counts)	Fuwai @as-published, direction	576/582 (98.97%)	same direction, JC-significant	0.95	Spearman rho	-
+a. JC vs JCEC (counts)	Stanford @as-published	796 significant	JC	868 significant	JCEC	+9.0%
+a. JC vs JCEC (counts)	Stanford @as-published, direction	788/795 (99.12%)	same direction, JC-significant	0.972	Spearman rho	-
+b. read length	SE	172	significant, 50 bp	167	significant, 125 bp	-2.9%
+b. read length	MXE	63	significant, 50 bp	63	significant, 125 bp	+0.0%
+b. read length	A3SS	36	significant, 50 bp	40	significant, 125 bp	+11.1%
+b. read length	A5SS	23	significant, 50 bp	23	significant, 125 bp	+0.0%
+b. read length	RI	43	significant, 50 bp	43	significant, 125 bp	+0.0%
+c. counting convention	Colorado	311/385 (80.8%)	exon-level	276/316 (87.3%)	full-coordinate	+6.6 pts
+c. counting convention	Brigham	298/364 (81.9%)	exon-level	238/272 (87.5%)	full-coordinate	+5.6 pts
+c. counting convention	Fuwai	422/596 (70.8%)	exon-level	406/545 (74.5%)	full-coordinate	+3.7 pts
+c. counting convention	Stanford	345/455 (75.8%)	exon-level	313/380 (82.4%)	full-coordinate	+6.5 pts

@@ -1,0 +1,17 @@
+part	row	value_1	label_1	value_2	label_2	change
+a. JC vs JCEC	Brigham	0.476	Deming, JCEC	0.581	Deming, JC	0.105
+a. JC vs JCEC	Brigham, matched subset (n=230)	0.53	Deming, JCEC (matched)	0.554	Deming, JC (matched)	0.024
+a. JC vs JCEC	Fuwai	0.243	Deming, JCEC	0.317	Deming, JC	0.074
+a. JC vs JCEC	Fuwai, matched subset (n=428)	0.309	Deming, JCEC (matched)	0.326	Deming, JC (matched)	0.017
+a. JC vs JCEC	Stanford	0.386	Deming, JCEC	0.419	Deming, JC	0.033
+a. JC vs JCEC	Stanford, matched subset (n=333)	0.412	Deming, JCEC (matched)	0.42	Deming, JC (matched)	0.008
+a. JC vs JCEC (counts)	MAGNet (discovery)	102 significant	JC	170 significant	JCEC	+66.7%
+a. JC vs JCEC (counts)	MAGNet (discovery), direction	101/102 (99.02%)	same direction, JC-significant	0.889	Spearman rho	-
+a. JC vs JCEC (counts)	Colorado	521 significant	JC	822 significant	JCEC	+57.8%
+a. JC vs JCEC (counts)	Colorado, direction	506/521 (97.12%)	same direction, JC-significant	0.892	Spearman rho	-
+a. JC vs JCEC (counts)	Brigham	368 significant	JC	519 significant	JCEC	+41.0%
+a. JC vs JCEC (counts)	Brigham, direction	367/368 (99.73%)	same direction, JC-significant	0.955	Spearman rho	-
+a. JC vs JCEC (counts)	Fuwai	582 significant	JC	679 significant	JCEC	+16.7%
+a. JC vs JCEC (counts)	Fuwai, direction	576/582 (98.97%)	same direction, JC-significant	0.95	Spearman rho	-
+a. JC vs JCEC (counts)	Stanford	796 significant	JC	868 significant	JCEC	+9.0%
+a. JC vs JCEC (counts)	Stanford, direction	788/795 (99.12%)	same direction, JC-significant	0.972	Spearman rho	-
