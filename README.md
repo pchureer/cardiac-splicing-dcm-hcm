@@ -218,7 +218,7 @@ The two targets hold the same tree with one difference:
 
 - **GitHub** carries the code, the small derived tables, the figures and all the
   documentation. It is the readable, diffable record. `events/` is in `.gitignore`.
-- **Zenodo** carries all of that *plus* `events/` — approximately 550 MB of full rMATS
+- **Zenodo** carries all of that *plus* `events/` — approximately 4.4 GB (1.7 GB compressed) of full rMATS
   event tables. These are too large for either journal's supplementary-material limit
   (Scientific Reports caps supplementary files at 50 MB), so the Zenodo record, not the
   supplement, is where the event-level data lives. The DOI is what the manuscript cites.

@@ -41,7 +41,7 @@ availability** section; SR accepts either, and separating them reads more clearl
 > are listed in Supplementary Table 11; three of those datasets were retrieved but not analysed, for the
 > reasons given in Methods. The event-level result tables generated during this study —
 > the full rMATS output for every contrast, at both read lengths — are deposited at Zenodo
-> under DOI 10.5281/zenodo.23681815. These tables are approximately 550 MB and exceed the
+> under DOI 10.5281/zenodo.23681815. These tables total approximately 4.4 GB uncompressed (1.7 GB compressed) and exceed the
 > supplementary-material size limit, which is why they are deposited rather than attached.
 > Individual-level genotype calls and the pairwise kinship matrix produced by the
 > sample-identity screen are not redistributed, because a genotype matrix is identifying
